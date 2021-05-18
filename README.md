@@ -1,3 +1,25 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/GoldenCorgi/">
+    <img src="https://github.com/GoldenCorgi/NTU--Mod--CZ2001/blob/master/readme.png" alt="Logo" width="600">
+  </a>
+
+  <h3 align="center">CZ2001 Algorithms</h3>
+
+  <p align="center">
+    "if i'm going to teach myself, why am i paying college $40k for?"
+    <br />
+    <a href="">2020</a>
+    ·
+    <a href="">Final Grade</a>
+    ·
+    <a href="">A+</a>
+    <br />
+    <br />
+  </p>
+</p>
+
 # Project 1
 
 
